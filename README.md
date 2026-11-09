@@ -3,10 +3,9 @@
 
   <a href="https://www.elite-1337.app">
     <img
-      src="https://media.licdn.com/dms/image/v2/D4E03AQEVD_jamYcV_A/profile-displayphoto-crop_800_800/B4EaF1l5t0KIAI-/0/1792974236152?e=1795651200&amp;v=beta&amp;t=622sffY9GFWShmFt761FqiqJXUwxm_zNLbIgdE72nvo"
-      alt="42 Student Profile"
-      width="110"
-      height="110"
+      src="./assets/1337-profile.jpg"
+      alt="1337 Student Profile"
+      width="260"
     />
   </a>
 
