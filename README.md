@@ -1,1 +1,1 @@
-[![Elite 1337 rank](https://www.elite-1337.app/api/card/236595.svg?t=iZQEV3J0UyfEVheMRn3os3A8R2mPr4W1WKZplP94RJM&theme=dark&accent=lemon&font=courier)](https://www.elite-1337.app)
+[![Elite 1337 rank](https://media.licdn.com/dms/image/v2/D4E03AQEVD_jamYcV_A/profile-displayphoto-crop_800_800/B4EaF1l5t0KIAI-/0/1792974236152?e=1795651200&v=beta&t=622sffY9GFWShmFt761FqiqJXUwxm_zNLbIgdE72nvo?t=iZQEV3J0UyfEVheMRn3os3A8R2mPr4W1WKZplP94RJM&theme=dark&accent=lemon&font=courier)](https://www.elite-1337.app)
